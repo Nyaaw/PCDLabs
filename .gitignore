@@ -1,2 +1,4 @@
 **/.ipynb_chekpoints/
 **/.venv/
+.DS_STORE
+*:Zone.Identifier
